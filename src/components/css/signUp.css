@@ -1,0 +1,91 @@
+
+ .signBody{
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.img1{
+    position: absolute;
+    color: black;
+    top: 23%;
+}
+.signContent{
+    background-color: white;
+    height: 60vh;
+    width: 70vh;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5vh;
+    color:  rgba(255, 170, 0, 0.988);
+    padding: 7vh;
+    background:  #FCAF45;
+}
+.button{
+    width: 20vh;
+    height: 6vh; 
+    background-color:rgba(98, 0, 255, 0.988);
+    color: white;
+    border-radius:20px;
+    font-size: 16px;
+    border: none;
+    margin-top: 1%;
+}
+input:focus {
+    outline: none;
+  }
+  .Loginbody label{
+   font-size: 20px;
+}
+.signUp{
+    text-decoration: none;
+    width: 23vh;
+    height: 3vh; 
+    background-color:rgba(98, 0, 255, 0.988);
+    color: white;
+    border-radius:20px;
+    padding: 10px;
+    font-size: 16px;
+    padding-bottom: 10px;
+    border: none;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.signUp:hover{
+    text-decoration: none;
+ }
+.error{
+    color:red;
+}
+
+h4{
+    color: white;  
+}
+h1{
+    color: white;
+}
+.logIn{
+    text-decoration: none;
+    width: 23vh;
+    height: 3vh; 
+    background-color:rgba(98, 0, 255, 0.988);
+    color: white;
+    border-radius:20px;
+    padding: 10px;
+    font-size: 16px;
+    padding-bottom: 10px;
+    border: none;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.Inputdiv1{
+    margin-bottom: 6vh;
+}
+.ii{
+    margin-top: 4%;
+}
+.hh1{
+    margin-top: 5%;
+}
